@@ -4,4 +4,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukiet&show_icons=true&theme=radical)
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lukiet)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lukiet)](https://github.com/lukiet/github-readme-stats)
