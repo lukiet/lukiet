@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=lukiet)
+
 <h3>Hello, I'm Luke ,👋 <h2>I build softwares</h2> </h3>
 <hr></hr>
 <H1>🔥 My Development Stack :</H1>
