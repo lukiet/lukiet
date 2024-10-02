@@ -1,11 +1,11 @@
-<h3>Hello, I'm Luke <span><h2>I build softwares</h2>,👋</span></h3>
+<h3>Hello, I'm Luke ,👋 <h2>I build softwares</h2> </h3>
 <hr></hr>
 <H1>🔥 My Development Stack :</H1>
 <ul>
- <li>Languages: Python, Java, JavaScript</li>
- <li>Frameworks: Django, Spring Boot, Flask</li>
- <li>Tools: Git, Docker, Jenkins</li>
- <li>Databases: PostgreSQL, MySQL, MongoDB</li>
+ <li><h3 style="font-type:bold;">Languages:</h3>  Python, Java, JavaScript, Typescript ,HTML, CSS, </li>
+ <li><h3 style="font-type:bold;">Frameworks: </h3>ReactJs, SASS, SCSS, Django, </li>
+ <li><h3 style="font-type:bold;">Tools:</h3> Git & github</li>
+ <li><h3 style="font-type:bold;">Databases:</h3> MySQL, MongoDB</li>
 </ul>
 
 
