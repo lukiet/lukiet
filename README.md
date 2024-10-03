@@ -2,6 +2,7 @@
 
 <h3>Hello, I'm Luke ,👋 <h2>I build softwares</h2> </h3>
 <hr></hr>
+<marquee>Welcome to my page</marquee>
 <H1>🔥 My Development Stack :</H1>
 <ul>
  <li><h3 style="font-type:bold;">Languages:</h3>  Python, Java, JavaScript, Typescript ,HTML, CSS, </li>
