@@ -7,10 +7,9 @@
 <ul>
  <li><h3 style="font-type:bold;">Languages:</h3>  Python, Java, JavaScript, Typescript ,HTML, CSS, </li>
  <li><h3 style="font-type:bold;">Frameworks: </h3>ReactJs, SASS, SCSS, Django, </li>
- <li><h3 style="font-type:bold;">Tools:</h3> Git & github</li>
- <li><h3 style="font-type:bold;">Databases:</h3> MySQL, MongoDB</li>
+ <li><h3 style="font-type:bold;">Tools:</h3> Git & github, VSCode</li>
+ <li><h3 style="font-type:bold;">Databases:</h3> MySQL,SQlite, MongoDB, Postgresql</li>
 </ul>
-
 
 
 
