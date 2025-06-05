@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=lukiet)
 
-<h3>Hello 👋 <h2>I build softwares</h2> </h3>
+<h3>Hello 👋 <h2>I <span style="font-type:bold;">build</span> softwares</h2> </h3>
 <hr></hr>
 <marquee>Welcome to my page</marquee>
 <H1>🔥 My Development Stack :</H1>
@@ -13,10 +13,13 @@
 
 
 
-<h1>🔥 My Stats:</h1>
+<h1>📊 GitHub Stats</h1>
 
 ### 📊 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukiet&layout=compact&theme=radical)
+
+### **📊 GitHub Stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukiet&show_icons=true&theme=radical)
 
  
 
