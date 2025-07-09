@@ -16,7 +16,9 @@
 <h1>📊 GitHub Stats</h1>
 
 ### 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukiet&layout=compact&theme=radical) ### **📊 GitHub Stats**  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukiet&layout=compact&theme=radical) ### 
+
+**📊 GitHub Stats**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukiet&show_icons=true&theme=radical)
 
 
