@@ -206,7 +206,7 @@
 
 <br>
 -->
-<!--## 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://github.com/lukiet/lukiet/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
@@ -214,9 +214,9 @@
 
 <br>
 
-## 🌐 Connect & Collaborate
+<!--## 🌐 Connect & Collaborate
 
-<!--<div align="center">
+<div align="center">
   <table>
     <tr>
       <td align="center" width="20%">
