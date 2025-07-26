@@ -250,7 +250,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=To%20consult%20the%20statistician%20after%20an%20experiment%20is%20finished%20is%20often%20merely%20to%20ask%20him%20to%20conduct%20a%20post%20mortem%20examination.%20He%20can%20perhaps%20say%20what%20the%20experiment%20died%20of.&author=R.A.%20Fisher" alt="Quote"/>
 </div>
 --> 
-<br>
+<br> 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
