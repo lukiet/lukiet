@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,13,20&height=200&section=header&text=Luke%20Tsalwa&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20AI%20Enthusiast&descAlignY=55&descAlign=50" alt="Header"/>
 </div>
-
+ 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=60&lines=Full-Stack+Developer;Biashara+Softwares;Crafting+Business+Solutions;React.js%2C+Node.js%2C+Django%2C+MongoDB" alt="Typing Animation" />
 </div>
