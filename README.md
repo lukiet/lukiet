@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=60&lines=Full-Stack+Developer;Biashara+Softwares;Crafting+Business+Solutions;React.js%2C+Node.js%2C+Django%2C+MongoDB" alt="Typing Animation" />
 </div>
 
-  
+   
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lukiet&label=Profile%20Views&color=58A6FF&style=flat-square&exclude_me=true&reset=true" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/lukiet?label=Followers&style=flat-square&color=58A6FF&logo=github" alt="GitHub Followers" />
