@@ -12,7 +12,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lukiet&label=Profile%20Views&color=58A6FF&style=flat-square&exclude_me=true&reset=true" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/lukiet?label=Followers&style=flat-square&color=58A6FF&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Current Focus-Web Development-58A6FF?style=flat-square" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Current Focus-SAAS Development-58A6FF?style=flat-square" alt="Focus"/>
 
 </div>
 
