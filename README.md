@@ -5,7 +5,7 @@
 </div>
  
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=60&lines=Full-Stack+Developer;Biashara+Softwares;Crafting+Business+Solutions;React.js%2C+Node.js%2C+Django%2C+MongoDB" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=60&lines=Full-Stack+Software+Engineer;Biashara+Softwares;Crafting+Business+Solutions;React.js%2C+Node.js%2C+Django%2C+MongoDB" alt="Typing Animation" />
 </div>
  
    
