@@ -32,7 +32,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-lac-nine-fiz0mzc9xi.vercel.app/api/top-langs/?username=lukiet&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&v=2026_update" alt="Top Languages"/>
+  <img src="https://github-readme-stats-lac-nine-fiz0mzc9xi.vercel.app/api/wakatime?username=lukiet&theme=github_dark&hide_border=true&layout=compact&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&v=2026_update" alt="WakaTime Stats"/>
 </div>
 
 <br>
