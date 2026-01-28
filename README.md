@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=lukiet)
  
-<div align="center">
+<div align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,13,20&height=200&section=header&text=Luke%20Tsalwa&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20AI%20Enthusiast&descAlignY=55&descAlign=50" alt="Header"/>
 </div>
  
